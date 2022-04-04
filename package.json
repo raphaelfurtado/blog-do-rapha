@@ -1,0 +1,25 @@
+{
+  "name": "blog-do-rapha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaelfurtado/blog-do-rapha.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raphaelfurtado/blog-do-rapha/issues"
+  },
+  "homepage": "https://github.com/raphaelfurtado/blog-do-rapha#readme",
+  "dependencies": {
+    "next": "^12.1.4",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
